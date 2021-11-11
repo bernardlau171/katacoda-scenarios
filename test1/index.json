@@ -26,6 +26,8 @@
   },
   "environment": {
     "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "bash"
   }
-
 }
